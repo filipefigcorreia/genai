@@ -30,6 +30,8 @@
 
 - [12-Factor Agents](https://github.com/humanlayer/12-factor-agents)
 
+- [Agentic Design Patterns](https://github.com/Mathews-Tom/Agentic-Design-Patterns)
+
 ## Books
 
 - [LLM Engineering Handbook](https://drive.google.com/file/d/1eLzKVdjxNtFgVYDptKf5S5QkinWlKpia/view)
