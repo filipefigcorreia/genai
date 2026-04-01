@@ -54,6 +54,9 @@
 
 - [How to Code with Gen AI: A Year of Patterns](https://www.linkedin.com/posts/activity-7386955358734409728-pZsX)
 
+- [Patterns for Reducing Friction in AI-Assisted Development](https://martinfowler.com/articles/reduce-friction-ai/)
+    - [Some of these patterns have example implementations in this repository](https://github.com/andresdiegolanda/design-first-ai), by  Andrés Diego Landa
+
 ---
 
 # Evaluation
